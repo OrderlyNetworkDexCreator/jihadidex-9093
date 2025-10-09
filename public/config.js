@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/JihadiDex",
   "VITE_SEO_SITE_NAME": "JihadiDex",
   "VITE_SEO_SITE_DESCRIPTION": "Allahu Akbar!",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/jihadidex-9093/",
+  "VITE_SEO_SITE_URL": "https://jihadi-dex.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@JihadiDex",
